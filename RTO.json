@@ -1,0 +1,97 @@
+{
+ "code": "M610",
+ "connector": "RTO-144",
+ "type": "10 Watt Monitor Amplifier",
+ "series": null,
+ "contacts": "15 contacts, 13 contacts (P2)",
+ "verified": null,
+ "derived": true,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "5",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - 10W Monitor Amp.pdf",
+   "page": 20
+  },
+  {
+   "pin": "6",
+   "signal": "G A IN OF T HES E",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - 10W Monitor Amp (2).pdf",
+   "page": 3
+  },
+  {
+   "pin": "7",
+   "signal": "G A IN OF T HES E",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - 10W Monitor Amp (2).pdf",
+   "page": 3
+  },
+  {
+   "pin": "7",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/AMPLIFIERS/M610/SCHEMATICS/19xx - M610 - 610-02-003 - EXTERNAL VOLUME CONTROL VOLUME CONTROL MGIO REMOTE VOLUME.jpg",
+   "page": 1
+  },
+  {
+   "pin": "13",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - 10W Monitor Amp.pdf",
+   "page": 20
+  },
+  {
+   "pin": "15",
+   "signal": "G A IN OF T HES E",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - 10W Monitor Amp (2).pdf",
+   "page": 3
+  },
+  {
+   "pin": "J",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/AMPLIFIERS/M610/SCHEMATICS/19xx - M610 - P012 - B610-002-002 004.jpg",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - 10W Monitor Amp (2).pdf",
+  "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - 10W Monitor Amp.pdf",
+  "Modules/AMPLIFIERS/M610/SCHEMATICS/19xx - M610 - 610-02-003 - EXTERNAL VOLUME CONTROL VOLUME CONTROL MGIO REMOTE VOLUME.jpg",
+  "Modules/AMPLIFIERS/M610/SCHEMATICS/19xx - M610 - P012 - B610-002-002 004.jpg"
+ ]
+}
