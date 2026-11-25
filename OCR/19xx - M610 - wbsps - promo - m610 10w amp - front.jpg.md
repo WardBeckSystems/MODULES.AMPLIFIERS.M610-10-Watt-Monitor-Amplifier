@@ -51,7 +51,7 @@ WBS M6io
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M610/PHOTOS/19xx - M610 - wbsps - promo - m610 10w amp - front.jpg",
+ "file": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - wbsps - promo - m610 10w amp - front.jpg",
  "sha256": "837f12d5b54bfa1e29e17ca32d8d4687cd33632f82ea6bb6769be309c5a68f7f",
  "kind": "module",
  "models": [

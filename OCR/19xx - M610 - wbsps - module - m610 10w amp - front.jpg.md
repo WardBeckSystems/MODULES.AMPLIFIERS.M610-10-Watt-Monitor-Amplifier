@@ -63,7 +63,7 @@ The mndesl siz 0f 4W * 34H * 1370 inches allows five M6IO monito Jafhers Jrcommo
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M610/PHOTOS/19xx - M610 - wbsps - module - m610 10w amp - front.jpg",
+ "file": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - wbsps - module - m610 10w amp - front.jpg",
  "sha256": "20520b45be52dec2362cfa63278e7c22620dc595c7801eb7dbb1035adbadecc5",
  "kind": "module",
  "models": [

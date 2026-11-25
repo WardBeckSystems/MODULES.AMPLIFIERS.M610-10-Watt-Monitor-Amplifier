@@ -51,7 +51,7 @@ WbspsCAI
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M610/PHOTOS/wbsps - promo - m610 10w amp - 002.jpg",
+ "file": "Modules/AMPLIFIERS/M610/MANUALS/wbsps - promo - m610 10w amp - 002.jpg",
  "sha256": "2db6466a3a84f198af06c28713666e531f9df71c32ec7eab63928cb4795a644e",
  "kind": "module",
  "models": [

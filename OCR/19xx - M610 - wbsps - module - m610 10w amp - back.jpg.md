@@ -55,7 +55,7 @@ WBS
 
 ```json
 {
- "file": "Modules/AMPLIFIERS/M610/PHOTOS/19xx - M610 - wbsps - module - m610 10w amp - back.jpg",
+ "file": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - wbsps - module - m610 10w amp - back.jpg",
  "sha256": "e9682eb01cf93f39b108b209cad3a20f78071b9861e935c30307ea0058b820b9",
  "kind": "module",
  "models": [
