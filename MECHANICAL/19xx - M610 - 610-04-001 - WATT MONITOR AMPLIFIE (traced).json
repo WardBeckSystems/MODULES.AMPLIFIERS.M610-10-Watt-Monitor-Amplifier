@@ -1,0 +1,73 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M610/MECHANICAL/19xx - M610 - 610-04-001 - WATT MONITOR AMPLIFIE.jpg",
+ "version": 1,
+ "trace": "_traces/18bc616a98076dfe.svg",
+ "sheet": {
+  "number": "610-04-001",
+  "title": "Watt Monitor Amplifie",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.1, 333.3, 431.9],
+ "outlines": {
+  "line": {"rings": 3217, "straight": {"n": 30845, "mm": 24432.1}, "curved": {"n": 7293, "mm": 7840.8}},
+  "text": {"rings": 113, "straight": {"n": 995, "mm": 912.0}, "curved": {"n": 258, "mm": 331.0}},
+  "tb": {"rings": 192, "straight": {"n": 934, "mm": 629.1}, "curved": {"n": 253, "mm": 245.3}}
+ },
+ "circles": [
+  {"c": [238.8, 219.3], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [226.6, 236.2], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [{"mm": [121.8, 305.8, 131.1, 368.5], "w": 9.3, "h": 62.8, "from": "ring"}],
+ "text": {
+  "words": 23,
+  "lines": [
+   {"mm": [99.3, 402.4, 121.8, 412.8], "text": "PCB"},
+   {"mm": [263.8, 271.0, 277.2, 279.1], "text": "P2"},
+   {"mm": [0.0, 267.3, 18.8, 275.9], "text": "CRA"},
+   {"mm": [200.8, 270.3, 212.2, 278.0], "text": "PI"},
+   {"mm": [217.4, 188.3, 225.0, 194.7], "text": "Pi"},
+   {"mm": [93.1, 143.8, 114.2, 153.6], "text": "C28"},
+   {"mm": [21.2, 142.7, 43.0, 153.0], "text": "C30"},
+   {"mm": [31.7, 76.0, 56.8, 86.1], "text": "MaTI ."},
+   {"mm": [0.0, 76.0, 15.5, 84.2], "text": "2On"},
+   {"mm": [123.7, 66.9, 251.5, 80.1], "text": "WBS WARD-BECK"},
+   {"mm": [311.8, 71.2, 332.9, 79.9], "text": "LtD"},
+   {"mm": [112.3, 51.4, 129.5, 60.0], "text": "DRN"},
+   {"mm": [141.8, 51.8, 160.2, 60.5], "text": "Dm"},
+   {"mm": [228.4, 48.8, 263.4, 60.1], "text": "M6i0"},
+   {"mm": [112.3, 42.7, 132.1, 51.4], "text": "DATE"},
+   {"mm": [139.3, 42.3, 174.9, 53.6], "text": "MAE7"},
+   {"mm": [32.8, 39.3, 56.6, 47.0], "text": "FINISA"},
+   {"mm": [112.7, 32.8, 130.0, 41.5], "text": "CKD"},
+   {"mm": [203.4, 26.8, 295.4, 41.2], "text": "MODULE LAYOUT"},
+   {"mm": [113.3, 24.8, 136.0, 33.5], "text": "Scale"},
+   {"mm": [205.3, 11.0, 293.4, 25.6], "text": "610-04 901"},
+   {"mm": [113.8, 13.0, 133.2, 21.6], "text": "TOLS"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [105.5, 16.2, 258.4, 88.8],
+  "from": "title-block words (training set)",
+  "text": ["WBS WARD-BECK", "DRN", "Dm", "M6i0", "DATE", "MAE7", "CKD", "MODULE LAYOUT", "Scale", "610-04 901", "TOLS"]
+ },
+ "dots": [{"c": [83.4, 40.1], "r": 0.6, "lines": 0}],
+ "summary": [
+  "- **Sheet:** layout 610-04-001, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–333 mm across, 0–432 mm up",
+  "- **Outlines:** line 3,217 rings, 30,845 straight (24,432 mm) / 7,293 curved (7,841 mm); text 113 rings, 995 straight (912 mm) / 258 curved (331 mm); tb 192 rings, 934 straight (629 mm) / 253 curved (245 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.5 @ (238.8, 219.3), r 2.1 @ (226.6, 236.2)",
+  "- **Closed boxes:** 1",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 23 in 22 lines: PCB · P2 · CRA · PI · Pi · C28 · C30 · MaTI . · 2On · WBS WARD-BECK · LtD · DRN",
+  "- **Title block:** (106, 16)–(258, 89) mm: WBS WARD-BECK · DRN · Dm · M6i0 · DATE · MAE7 · CKD · MODULE LAYOUT · Scale · 610-04 901 · TOLS"
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - 10W Monitor Amp.pdf",
+ "page": 25,
+ "version": 1,
+ "trace": "_traces/c50e8589c87fc1f6-p25.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "25", "pages": "25"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.2, -0.2, 333.1, 431.9],
+ "outlines": {
+  "line": {"rings": 2675, "straight": {"n": 25025, "mm": 21785.9}, "curved": {"n": 6469, "mm": 7284.2}},
+  "text": {"rings": 137, "straight": {"n": 1037, "mm": 979.3}, "curved": {"n": 256, "mm": 323.6}},
+  "tb": {"rings": 130, "straight": {"n": 628, "mm": 457.7}, "curved": {"n": 154, "mm": 155.5}}
+ },
+ "circles": [
+  {"c": [238.8, 219.3], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [226.6, 236.3], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [121.8, 305.9, 130.8, 368.8], "w": 9.1, "h": 62.8, "from": "ring"},
+  {"mm": [206.6, 187.5, 270.1, 244.6], "w": 63.5, "h": 57.2, "from": "ring", "words": ["Pi"]}
+ ],
+ "text": {
+  "words": 21,
+  "lines": [
+   {"mm": [99.7, 403.3, 121.3, 411.9], "text": "PCB"},
+   {"mm": [263.8, 271.0, 277.2, 279.6], "text": "P2"},
+   {"mm": [0.0, 266.9, 19.2, 276.7], "text": "CRA"},
+   {"mm": [217.8, 188.3, 224.8, 194.7], "text": "Pi"},
+   {"mm": [93.1, 143.8, 114.2, 153.6], "text": "C28"},
+   {"mm": [21.8, 142.7, 43.0, 152.3], "text": "C30"},
+   {"mm": [123.3, 66.7, 251.5, 80.1], "text": "WBS WARD-BECK"},
+   {"mm": [311.8, 71.7, 333.3, 79.8], "text": "LTD"},
+   {"mm": [141.8, 52.2, 160.2, 60.4], "text": "Dm"},
+   {"mm": [228.6, 48.8, 263.4, 60.5], "text": "M6io"},
+   {"mm": [138.4, 36.7, 334.6, 54.1], "text": "74RZ 10 WATT MonitoR AMpLipie?"},
+   {"mm": [112.7, 42.7, 132.6, 51.4], "text": "DATE"},
+   {"mm": [32.8, 39.3, 56.6, 47.0], "text": "FINISA"},
+   {"mm": [113.3, 32.8, 130.6, 41.5], "text": "CKD:"},
+   {"mm": [203.4, 27.0, 295.4, 39.9], "text": "MODULE LAYOUT"},
+   {"mm": [113.3, 24.8, 136.4, 33.5], "text": "ScALE"},
+   {"mm": [140.6, 24.6, 159.3, 34.2], "text": "L2"},
+   {"mm": [205.3, 11.0, 294.1, 25.6], "text": "G10-04-901"},
+   {"mm": [113.8, 13.0, 133.2, 21.6], "text": "TOLS"}
+  ],
+  "scale": null
+ },
+ "title_block": {
+  "mm": [106.0, 16.2, 258.4, 88.8],
+  "from": "title-block words (training set)",
+  "text": ["WBS WARD-BECK", "Dm", "M6io", "74RZ 10 WATT MonitoR AMpLipie?", "DATE", "CKD:", "MODULE LAYOUT", "ScALE", "L2", "G10-04-901", "TOLS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–333 mm across, 0–432 mm up",
+  "- **Outlines:** line 2,675 rings, 25,025 straight (21,786 mm) / 6,469 curved (7,284 mm); text 137 rings, 1,037 straight (979 mm) / 256 curved (324 mm); tb 130 rings, 628 straight (458 mm) / 154 curved (156 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.5 @ (238.8, 219.3), r 2.2 @ (226.6, 236.3)",
+  "- **Closed boxes:** 2; named: Pi",
+  "- **Words (OCR):** 21 in 19 lines: PCB · P2 · CRA · Pi · C28 · C30 · WBS WARD-BECK · LTD · Dm · M6io · 74RZ 10 WATT MonitoR AMpLipie? · DATE",
+  "- **Title block:** (106, 16)–(258, 89) mm: WBS WARD-BECK · Dm · M6io · 74RZ 10 WATT MonitoR AMpLipie? · DATE · CKD: · MODULE LAYOUT · ScALE · L2 · G10-04-901 · TOLS"
+ ]
+}

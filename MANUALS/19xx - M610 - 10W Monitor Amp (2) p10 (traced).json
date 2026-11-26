@@ -1,0 +1,60 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - 10W Monitor Amp (2).pdf",
+ "page": 10,
+ "version": 1,
+ "trace": "_traces/5976e852e640a2d9-p10.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "10", "pages": "25"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 334.4, 430.1],
+ "outlines": {
+  "line": {"rings": 170, "straight": {"n": 1415, "mm": 2528.1}, "curved": {"n": 376, "mm": 594.5}},
+  "text": {"rings": 136, "straight": {"n": 1048, "mm": 1182.7}, "curved": {"n": 331, "mm": 493.6}}
+ },
+ "circles": [
+  {"c": [141.3, 397.7], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [73.0, 398.0], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 24,
+  "lines": [
+   {"mm": [191.1, 424.2, 211.4, 429.8], "text": "0'.'4<'':5"},
+   {"mm": [142.5, 424.0, 166.0, 429.3], "text": "\",E2::\"':\"C"},
+   {"mm": [162.4, 416.0, 177.7, 421.8], "text": "M610"},
+   {"mm": [54.2, 370.5, 67.4, 376.7], "text": "XC1"},
+   {"mm": [102.8, 370.5, 138.6, 377.0], "text": "aeae i::k"},
+   {"mm": [259.7, 371.1, 295.1, 376.9], "text": "3AL6aO -2R"},
+   {"mm": [103.2, 355.6, 141.0, 361.3], "text": "I!l t.a<;r t.ed"},
+   {"mm": [151.6, 355.6, 170.6, 361.3], "text": ":z:uit"},
+   {"mm": [210.9, 356.0, 246.3, 361.8], "text": "Pa .ir :\"ild"},
+   {"mm": [259.3, 356.0, 294.7, 361.8], "text": "U6.;>.773939"},
+   {"mm": [54.4, 347.6, 62.0, 355.3], "text": "aa"},
+   {"mm": [259.3, 348.0, 298.8, 353.8], "text": "U5a7709393"},
+   {"mm": [259.3, 340.5, 298.8, 346.2], "text": "u5 7709393"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 0–430 mm up",
+  "- **Outlines:** line 170 rings, 1,415 straight (2,528 mm) / 376 curved (594 mm); text 136 rings, 1,048 straight (1,183 mm) / 331 curved (494 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.2 @ (141.3, 397.7), r 2.2 @ (73.0, 398.0)",
+  "- **Words (OCR):** 24 in 17 lines: 0'.'4<'':5 · \",E2::\"':\"C · M610 · XC1 · aeae i::k · 3AL6aO -2R · I!l t.a<;r t.ed · :z:uit · Pa .ir :\"ild · U6.;>.773939 · aa · U5a7709393"
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M610/MECHANICAL/19xx - M610 - 610-04-001 - MGIO FIINISH CRA.jpg",
+ "version": 1,
+ "trace": "_traces/da649d7beb72c111.svg",
+ "sheet": {
+  "number": "610-04-001",
+  "title": "Mgio Fiinish Cra",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 8.7, 338.7, 431.9],
+ "outlines": {
+  "line": {"rings": 3331, "straight": {"n": 28417, "mm": 21878.9}, "curved": {"n": 6538, "mm": 6970.6}},
+  "text": {"rings": 45, "straight": {"n": 529, "mm": 537.7}, "curved": {"n": 137, "mm": 188.3}}
+ },
+ "circles": [{"c": [180.9, 352.0], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [{"mm": [160.2, 299.9, 169.7, 367.4], "w": 9.5, "h": 67.5, "from": "ring"}],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [84.6, 264.3, 104.7, 274.3], "text": "Sw1"},
+   {"mm": [283.3, 267.3, 304.2, 275.9], "text": "CRA"},
+   {"mm": [13.0, 263.4, 31.3, 272.0], "text": "DSI"},
+   {"mm": [44.7, 223.5, 74.3, 230.4], "text": "Wes Mbio"},
+   {"mm": [32.6, 184.4, 44.5, 189.7], "text": "Trim"},
+   {"mm": [306.4, 142.9, 326.9, 151.6], "text": "C30"},
+   {"mm": [8.4, 139.0, 27.9, 148.9], "text": "R23"},
+   {"mm": [100.4, 140.3, 114.0, 148.5], "text": "F2"},
+   {"mm": [316.7, 76.6, 337.7, 85.3], "text": "MaTL"},
+   {"mm": [268.6, 76.0, 299.9, 84.2], "text": "USED OM"},
+   {"mm": [255.4, 65.6, 281.7, 75.2], "text": "M6IO"},
+   {"mm": [316.7, 38.9, 338.5, 47.0], "text": "FINISA"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 610-04-001, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–339 mm across, 9–432 mm up",
+  "- **Outlines:** line 3,331 rings, 28,417 straight (21,879 mm) / 6,538 curved (6,971 mm); text 45 rings, 529 straight (538 mm) / 137 curved (188 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.5 @ (180.9, 352.0)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 12 in 12 lines: Sw1 · CRA · DSI · Wes Mbio · Trim · C30 · R23 · F2 · MaTL · USED OM · M6IO · FINISA"
+ ]
+}

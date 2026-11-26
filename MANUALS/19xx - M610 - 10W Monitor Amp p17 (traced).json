@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - 10W Monitor Amp.pdf",
+ "page": 17,
+ "version": 1,
+ "trace": "_traces/c50e8589c87fc1f6-p17.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "17", "pages": "25"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 11.6, 338.7, 431.8],
+ "outlines": {
+  "line": {"rings": 9731, "straight": {"n": 58836, "mm": 43248.1}, "curved": {"n": 16066, "mm": 16365.1}},
+  "text": {"rings": 254, "straight": {"n": 2338, "mm": 2010.1}, "curved": {"n": 615, "mm": 707.0}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [153.9, 177.3, 156.5, 179.8], "w": 2.6, "h": 2.6, "from": "ring"}],
+ "text": {
+  "words": 22,
+  "lines": [
+   {"mm": [216.3, 291.0, 243.3, 299.2], "text": "INPUT"},
+   {"mm": [208.8, 281.5, 239.0, 289.7], "text": "2adBm"},
+   {"mm": [241.4, 281.7, 264.3, 289.9], "text": "6001"},
+   {"mm": [286.9, 283.3, 301.0, 290.2], "text": "SEE"},
+   {"mm": [286.9, 276.4, 303.6, 283.3], "text": "Nore"},
+   {"mm": [212.0, 272.0, 256.7, 280.7], "text": "BALANCED"},
+   {"mm": [1.9, 215.0, 13.8, 224.9], "text": "PZ"},
+   {"mm": [4.1, 196.3, 18.1, 205.8], "text": "10"},
+   {"mm": [3.9, 187.4, 18.4, 196.0], "text": "20"},
+   {"mm": [3.0, 177.3, 18.6, 187.1], "text": "30"},
+   {"mm": [3.2, 167.3, 17.7, 176.0], "text": "40"},
+   {"mm": [90.2, 161.1, 143.6, 172.3], "text": "faw sk_LoG"},
+   {"mm": [3.2, 157.6, 18.4, 166.2], "text": "50"},
+   {"mm": [104.1, 157.2, 188.3, 164.6], "text": "EXTERNAL CONTROL"},
+   {"mm": [2.2, 145.7, 18.4, 158.7], "text": "S0"},
+   {"mm": [124.4, 149.8, 168.8, 158.2], "text": "REQDIRED"},
+   {"mm": [112.3, 150.7, 121.3, 157.2], "text": "IF"},
+   {"mm": [42.3, 139.5, 139.9, 149.1], "text": "GAIN STRAPS(CONNECT"},
+   {"mm": [142.1, 140.6, 203.6, 150.1], "text": "FOR LOW GAIN)"},
+   {"mm": [2.2, 134.9, 19.4, 147.9], "text": "10"},
+   {"mm": [3.9, 127.4, 17.9, 135.5], "text": "BO"},
+   {"mm": [103.0, 124.6, 132.1, 132.3], "text": "InpUt"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–339 mm across, 12–432 mm up",
+  "- **Outlines:** line 9,731 rings, 58,836 straight (43,248 mm) / 16,066 curved (16,365 mm); text 254 rings, 2,338 straight (2,010 mm) / 615 curved (707 mm)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 22 in 22 lines: INPUT · 2adBm · 6001 · SEE · Nore · BALANCED · PZ · 10 · 20 · 30 · 40 · faw sk_LoG"
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - 10W Monitor Amp.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/c50e8589c87fc1f6-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "25"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 333.6, 424.9],
+ "outlines": {
+  "line": {"rings": 76, "straight": {"n": 288, "mm": 549.0}, "curved": {"n": 67, "mm": 79.6}},
+  "text": {"rings": 189, "straight": {"n": 1517, "mm": 1837.9}, "curved": {"n": 405, "mm": 651.5}},
+  "tb": {"rings": 1, "straight": {"n": 6, "mm": 10.3}, "curved": {"n": 1, "mm": 1.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 21,
+  "lines": [
+   {"mm": [168.4, 377.4, 182.4, 384.8], "text": "610"},
+   {"mm": [120.9, 364.9, 129.5, 371.8], "text": "10"},
+   {"mm": [132.1, 363.8, 222.2, 371.9], "text": "WATT MON TOR AMPLIFIER"},
+   {"mm": [167.3, 122.4, 261.0, 130.6], "text": "Des igned Manu factured"},
+   {"mm": [203.4, 116.2, 212.4, 123.6], "text": "By"},
+   {"mm": [166.7, 109.7, 236.8, 117.8], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [239.2, 109.7, 269.2, 117.8], "text": "LimiTED"},
+   {"mm": [166.7, 101.9, 244.2, 111.4], "text": "84 Progress Avenue"},
+   {"mm": [166.2, 95.2, 248.7, 104.8], "text": "Scarborough, Ontario"},
+   {"mm": [166.5, 81.8, 228.9, 91.4], "text": "(416 ) 438-6550"},
+   {"mm": [167.3, 76.6, 188.7, 84.6], "text": "Telex"},
+   {"mm": [194.5, 74.3, 233.4, 84.6], "text": "065-25399"}
+  ]
+ },
+ "title_block": {
+  "mm": [159.9, 101.0, 243.6, 126.3],
+  "from": "title-block words (training set)",
+  "text": ["Des igned Manu factured", "By", "WARD-BECK SYSTEMS", "84 Progress Avenue"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 0–425 mm up",
+  "- **Outlines:** line 76 rings, 288 straight (549 mm) / 67 curved (79.6 mm); text 189 rings, 1,517 straight (1,838 mm) / 405 curved (652 mm); tb 1 rings, 6 straight (10.3 mm) / 1 curved (1.6 mm)",
+  "- **Words (OCR):** 21 in 12 lines: 610 · 10 · WATT MON TOR AMPLIFIER · Des igned Manu factured · By · WARD-BECK SYSTEMS · LimiTED · 84 Progress Avenue · Scarborough, Ontario · (416 ) 438-6550 · Telex · 065-25399",
+  "- **Title block:** (160, 101)–(244, 126) mm: Des igned Manu factured · By · WARD-BECK SYSTEMS · 84 Progress Avenue"
+ ]
+}

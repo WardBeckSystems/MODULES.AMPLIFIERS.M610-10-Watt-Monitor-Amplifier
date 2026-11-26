@@ -1,0 +1,51 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - 10W Monitor Amp (2).pdf",
+ "page": 16,
+ "version": 1,
+ "trace": "_traces/5976e852e640a2d9-p16.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "16", "pages": "25"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 15.8, 338.6, 429.0],
+ "outlines": {
+  "line": {"rings": 8789, "straight": {"n": 58259, "mm": 43280.8}, "curved": {"n": 15925, "mm": 16328.0}},
+  "text": {"rings": 62, "straight": {"n": 283, "mm": 190.6}, "curved": {"n": 76, "mm": 75.3}}
+ },
+ "circles": [
+  {"c": [163.3, 199.9], "r": 3.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [289.7, 191.2], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [219.2, 252.0], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [34.7, 189.6], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [{"mm": [124.7, 130.3, 153.3, 196.3], "w": 28.6, "h": 65.9, "from": "ring"}],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [206.6, 64.6], "r": 0.6, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–339 mm across, 16–429 mm up",
+  "- **Outlines:** line 8,789 rings, 58,259 straight (43,281 mm) / 15,925 curved (16,328 mm); text 62 rings, 283 straight (191 mm) / 76 curved (75.3 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 3.5 @ (163.3, 199.9), r 3.4 @ (289.7, 191.2), r 2.0 @ (219.2, 252.0), r 1.9 @ (34.7, 189.6)",
+  "- **Closed boxes:** 1",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht"
+ ]
+}

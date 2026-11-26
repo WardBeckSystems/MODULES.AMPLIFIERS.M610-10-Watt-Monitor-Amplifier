@@ -1,0 +1,65 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - 10W Monitor Amp.pdf",
+ "page": 18,
+ "version": 1,
+ "trace": "_traces/c50e8589c87fc1f6-p18.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "18", "pages": "25"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 23.6, 338.6, 421.2],
+ "outlines": {
+  "line": {"rings": 8550, "straight": {"n": 52134, "mm": 38938.8}, "curved": {"n": 14144, "mm": 14560.4}},
+  "text": {"rings": 286, "straight": {"n": 2651, "mm": 2355.0}, "curved": {"n": 697, "mm": 872.4}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [109.0, 152.4, 175.1, 272.0], "w": 66.1, "h": 119.6, "from": "ring"}],
+ "text": {
+  "words": 29,
+  "lines": [
+   {"mm": [230.4, 394.7, 264.9, 403.3], "text": "MSYAC"},
+   {"mm": [31.7, 313.1, 59.4, 320.7], "text": "PZ PI"},
+   {"mm": [70.6, 307.7, 79.2, 314.1], "text": "pi"},
+   {"mm": [70.2, 296.9, 97.2, 304.5], "text": "16 Pi"},
+   {"mm": [51.2, 283.3, 77.1, 291.9], "text": "Mgio"},
+   {"mm": [314.6, 284.6, 338.5, 291.5], "text": "JOWA"},
+   {"mm": [269.2, 283.3, 308.1, 291.4], "text": "OUT PUT"},
+   {"mm": [88.5, 272.5, 97.6, 278.9], "text": "19"},
+   {"mm": [271.4, 273.1, 334.4, 282.4], "text": "+40dBm 8n"},
+   {"mm": [277.9, 263.4, 338.5, 274.4], "text": "UNBALANCEE"},
+   {"mm": [34.5, 266.0, 44.3, 273.7], "text": "H6"},
+   {"mm": [71.7, 265.6, 82.9, 273.7], "text": "45"},
+   {"mm": [34.5, 254.3, 65.4, 265.6], "text": "12 73"},
+   {"mm": [76.0, 256.9, 89.4, 265.6], "text": "Pz"},
+   {"mm": [56.1, 246.6, 68.7, 255.2], "text": "Pz"},
+   {"mm": [36.1, 239.2, 49.4, 246.7], "text": "cw"},
+   {"mm": [60.5, 226.3, 73.4, 234.4], "text": "Sk"},
+   {"mm": [57.2, 218.5, 105.8, 227.4], "text": "SEE NOTE 2"},
+   {"mm": [196.7, 142.7, 272.7, 152.3], "text": "SYSTEM Ground"},
+   {"mm": [218.3, 136.2, 239.9, 145.8], "text": "BAR"},
+   {"mm": [73.2, 93.5, 161.1, 104.0], "text": "TO MAIN BUILDING"},
+   {"mm": [89.2, 86.1, 129.3, 96.7], "text": "GROUND"},
+   {"mm": [174.4, 74.7, 223.9, 84.3], "text": "LMee CKD"},
+   {"mm": [190.0, 67.4, 206.6, 74.3], "text": "052"}
+  ]
+ },
+ "dots": [{"c": [260.0, 139.8], "r": 0.9, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–339 mm across, 24–421 mm up",
+  "- **Outlines:** line 8,550 rings, 52,134 straight (38,939 mm) / 14,144 curved (14,560 mm); text 286 rings, 2,651 straight (2,355 mm) / 697 curved (872 mm)",
+  "- **Closed boxes:** 1",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 29 in 24 lines: MSYAC · PZ PI · pi · 16 Pi · Mgio · JOWA · OUT PUT · 19 · +40dBm 8n · UNBALANCEE · H6 · 45"
+ ]
+}

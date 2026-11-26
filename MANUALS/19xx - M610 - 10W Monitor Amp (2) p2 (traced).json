@@ -1,0 +1,70 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - 10W Monitor Amp (2).pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/5976e852e640a2d9-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "25"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 328.8, 425.3],
+ "outlines": {
+  "line": {"rings": 189, "straight": {"n": 1353, "mm": 2270.2}, "curved": {"n": 326, "mm": 509.0}},
+  "text": {"rings": 351, "straight": {"n": 2541, "mm": 3018.8}, "curved": {"n": 721, "mm": 1171.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 73,
+  "lines": [
+   {"mm": [120.9, 371.6, 200.6, 377.6], "text": "10 \\o'Ai MONI TOR AMPL"},
+   {"mm": [39.7, 348.7, 103.2, 354.7], "text": "ns ro..: tion Manua"},
+   {"mm": [136.0, 327.7, 155.4, 333.5], "text": "CON"},
+   {"mm": [55.7, 308.1, 74.9, 314.3], "text": "Circu"},
+   {"mm": [88.1, 308.1, 131.5, 314.3], "text": "Des ription"},
+   {"mm": [56.1, 294.9, 109.2, 301.2], "text": "Te hn ca Data"},
+   {"mm": [72.8, 281.3, 87.0, 287.3], "text": "ifie"},
+   {"mm": [103.6, 281.3, 134.9, 287.3], "text": "justment"},
+   {"mm": [55.7, 267.7, 110.5, 274.0], "text": "DC Vol se Cha"},
+   {"mm": [55.3, 254.8, 65.6, 260.8], "text": "Rep"},
+   {"mm": [79.7, 254.8, 122.6, 260.8], "text": "ea le Parts"},
+   {"mm": [127.6, 254.8, 143.1, 261.2], "text": "List"},
+   {"mm": [55.3, 241.2, 85.1, 247.4], "text": "Oraw ngs"},
+   {"mm": [88.1, 228.2, 118.5, 234.2], "text": "10_ 2_00"},
+   {"mm": [143.6, 227.1, 174.2, 233.4], "text": "Schematj"},
+   {"mm": [88.1, 214.6, 122.2, 220.6], "text": "10. 02 .002"},
+   {"mm": [143.6, 214.0, 190.2, 220.0], "text": "System Wir in"},
+   {"mm": [88.1, 201.0, 122.4, 207.0], "text": "10-02 -003"},
+   {"mm": [143.4, 200.6, 159.1, 206.3], "text": "geec"},
+   {"mm": [160.2, 200.6, 255.0, 206.8], "text": "te Volume Con trol Wiring"},
+   {"mm": [82.7, 187.8, 122.4, 193.8], "text": "610 -02 -004"},
+   {"mm": [143.4, 187.4, 210.3, 193.6], "text": "Ex er na Ho..: te Rel"},
+   {"mm": [84.2, 174.7, 118.1, 180.7], "text": "17 1_06 _00"},
+   {"mm": [143.8, 174.2, 201.9, 180.5], "text": "PC Boa r\"lj Uiyco..:t"},
+   {"mm": [82.3, 161.5, 117.9, 167.5], "text": "610 _04 _00"},
+   {"mm": [142.9, 160.6, 186.1, 166.9], "text": "Module La yc"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [185.7, 406.7], "r": 0.7, "lines": 0}, {"c": [184.8, 220.2], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–329 mm across, 0–425 mm up",
+  "- **Outlines:** line 189 rings, 1,353 straight (2,270 mm) / 326 curved (509 mm); text 351 rings, 2,541 straight (3,019 mm) / 721 curved (1,171 mm)",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 73 in 30 lines: 10 \\o'Ai MONI TOR AMPL · ns ro..: tion Manua · CON · Circu · Des ription · Te hn ca Data · ifie · justment · DC Vol se Cha · Rep · ea le Parts · List"
+ ]
+}

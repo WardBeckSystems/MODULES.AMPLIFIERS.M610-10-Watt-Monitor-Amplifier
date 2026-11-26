@@ -1,0 +1,57 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - 10W Monitor Amp.pdf",
+ "page": 10,
+ "version": 1,
+ "trace": "_traces/c50e8589c87fc1f6-p10.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "10", "pages": "25"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 334.4, 430.1],
+ "outlines": {
+  "line": {"rings": 72, "straight": {"n": 448, "mm": 1300.7}, "curved": {"n": 71, "mm": 103.2}},
+  "text": {"rings": 214, "straight": {"n": 1829, "mm": 2019.2}, "curved": {"n": 589, "mm": 884.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 21,
+  "lines": [
+   {"mm": [142.9, 424.2, 212.7, 431.2], "text": "RZELACZAZLZ 332F5"},
+   {"mm": [162.4, 417.1, 180.1, 423.6], "text": "M610"},
+   {"mm": [54.0, 395.1, 79.9, 401.6], "text": "SYMBOL"},
+   {"mm": [102.6, 394.7, 148.3, 401.1], "text": "DESCRIRTION"},
+   {"mm": [210.9, 394.0, 225.4, 400.5], "text": "MFG"},
+   {"mm": [259.5, 393.4, 304.9, 400.5], "text": "PART NUMBER"},
+   {"mm": [54.0, 371.8, 67.4, 378.3], "text": "XQ1"},
+   {"mm": [101.9, 371.3, 140.1, 378.3], "text": "Heat Sink"},
+   {"mm": [210.9, 370.9, 244.4, 377.9], "text": "Birtcher"},
+   {"mm": [259.5, 370.9, 296.6, 377.9], "text": "3AL680-2R"},
+   {"mm": [54.4, 356.9, 63.5, 363.4], "text": "21"},
+   {"mm": [102.3, 355.4, 172.3, 364.0], "text": "Integrated Cicuit"},
+   {"mm": [210.5, 355.8, 248.7, 362.8], "text": "Fairchild"},
+   {"mm": [258.9, 355.8, 300.3, 363.0], "text": "0647739393"},
+   {"mm": [54.4, 349.3, 63.5, 355.8], "text": "22"},
+   {"mm": [258.9, 347.6, 300.3, 354.6], "text": "0537709393"},
+   {"mm": [54.4, 341.1, 63.5, 348.1], "text": "23"},
+   {"mm": [258.9, 340.0, 299.9, 347.0], "text": "0537709393"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 0–430 mm up",
+  "- **Outlines:** line 72 rings, 448 straight (1,301 mm) / 71 curved (103 mm); text 214 rings, 1,829 straight (2,019 mm) / 589 curved (884 mm)",
+  "- **Words (OCR):** 21 in 18 lines: RZELACZAZLZ 332F5 · M610 · SYMBOL · DESCRIRTION · MFG · PART NUMBER · XQ1 · Heat Sink · Birtcher · 3AL680-2R · 21 · Integrated Cicuit"
+ ]
+}

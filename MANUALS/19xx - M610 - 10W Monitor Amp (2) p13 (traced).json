@@ -1,0 +1,44 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - 10W Monitor Amp (2).pdf",
+ "page": 13,
+ "version": 1,
+ "trace": "_traces/5976e852e640a2d9-p13.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "13", "pages": "25"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 24.9, 338.6, 426.3],
+ "outlines": {
+  "line": {"rings": 6579, "straight": {"n": 43273, "mm": 33845.8}, "curved": {"n": 11706, "mm": 12353.9}},
+  "text": {"rings": 78, "straight": {"n": 393, "mm": 285.9}, "curved": {"n": 100, "mm": 100.3}}
+ },
+ "circles": [{"c": [22.6, 316.1], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–339 mm across, 25–426 mm up",
+  "- **Outlines:** line 6,579 rings, 43,273 straight (33,846 mm) / 11,706 curved (12,354 mm); text 78 rings, 393 straight (286 mm) / 100 curved (100 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.3 @ (22.6, 316.1)",
+  "- **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht"
+ ]
+}

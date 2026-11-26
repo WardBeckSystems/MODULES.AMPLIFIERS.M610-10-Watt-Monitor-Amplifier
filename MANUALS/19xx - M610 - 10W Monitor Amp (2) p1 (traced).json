@@ -1,0 +1,54 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - 10W Monitor Amp (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/5976e852e640a2d9-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "25"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 333.6, 424.9],
+ "outlines": {
+  "line": {"rings": 141, "straight": {"n": 851, "mm": 1354.1}, "curved": {"n": 216, "mm": 341.3}},
+  "text": {"rings": 145, "straight": {"n": 1146, "mm": 1433.9}, "curved": {"n": 304, "mm": 492.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 33,
+  "lines": [
+   {"mm": [173.8, 376.7, 180.9, 382.7], "text": "10"},
+   {"mm": [121.3, 363.6, 220.9, 369.6], "text": "10 WATT MONITOR AMPL IFIER"},
+   {"mm": [168.8, 123.5, 200.4, 130.0], "text": "Designed"},
+   {"mm": [212.7, 123.5, 259.1, 130.0], "text": "Manufactu red"},
+   {"mm": [205.1, 116.4, 212.7, 122.6], "text": "By"},
+   {"mm": [168.4, 110.1, 270.7, 116.1], "text": "WARO- ECK SYSTEMS LIMI TEO"},
+   {"mm": [168.0, 103.2, 243.8, 109.9], "text": "84 Prog re ss Avenue"},
+   {"mm": [168.6, 96.5, 238.6, 103.0], "text": "Scarborough, Ont ar"},
+   {"mm": [177.3, 83.3, 228.2, 89.8], "text": "16) 438 -6550"},
+   {"mm": [168.8, 75.8, 177.7, 82.3], "text": "Tel"},
+   {"mm": [197.5, 75.8, 232.5, 82.3], "text": "065 25399"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–334 mm across, 0–425 mm up",
+  "- **Outlines:** line 141 rings, 851 straight (1,354 mm) / 216 curved (341 mm); text 145 rings, 1,146 straight (1,434 mm) / 304 curved (492 mm)",
+  "- **Words (OCR):** 33 in 15 lines: 10 · 10 WATT MONITOR AMPL IFIER · Designed · Manufactu red · By · WARO- ECK SYSTEMS LIMI TEO · 84 Prog re ss Avenue · Scarborough, Ont ar · 16) 438 -6550 · Tel · 065 25399 · ps"
+ ]
+}

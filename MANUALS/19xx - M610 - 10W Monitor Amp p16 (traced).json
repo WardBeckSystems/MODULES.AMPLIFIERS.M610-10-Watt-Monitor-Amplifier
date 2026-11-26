@@ -1,0 +1,77 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - 10W Monitor Amp.pdf",
+ "page": 16,
+ "version": 1,
+ "trace": "_traces/c50e8589c87fc1f6-p16.svg",
+ "sheet": {
+  "number": "150 06 140",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "16", "pages": "25"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 15.9, 338.6, 429.0],
+ "outlines": {
+  "line": {"rings": 16316, "straight": {"n": 77838, "mm": 46115.7}, "curved": {"n": 24789, "mm": 22255.4}},
+  "text": {"rings": 578, "straight": {"n": 3405, "mm": 2301.9}, "curved": {"n": 1032, "mm": 983.8}}
+ },
+ "circles": [{"c": [156.7, 354.1], "r": 0.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [{"mm": [124.8, 130.3, 153.3, 196.3], "w": 28.6, "h": 65.9, "from": "ring"}],
+ "text": {
+  "words": 43,
+  "lines": [
+   {"mm": [164.3, 259.1, 275.7, 268.6], "text": "CONNECTORS VIEWED"},
+   {"mm": [278.9, 258.2, 311.5, 268.3], "text": "FROM"},
+   {"mm": [179.6, 247.9, 267.9, 256.5], "text": "REAR OF FRAME"},
+   {"mm": [308.5, 214.8, 320.8, 223.5], "text": "PZ"},
+   {"mm": [182.9, 214.2, 193.7, 222.3], "text": "Pi"},
+   {"mm": [182.0, 195.6, 198.8, 205.4], "text": "160"},
+   {"mm": [285.6, 195.4, 301.6, 206.4], "text": "09"},
+   {"mm": [28.1, 193.2, 39.9, 201.9], "text": "AC"},
+   {"mm": [159.3, 195.2, 174.9, 205.0], "text": "03"},
+   {"mm": [157.8, 185.5, 198.8, 197.2], "text": "bz I50"},
+   {"mm": [25.0, 184.6, 50.3, 193.2], "text": "6OHz"},
+   {"mm": [285.2, 185.9, 326.0, 196.4], "text": "Oio 20"},
+   {"mm": [158.9, 176.2, 199.3, 186.5], "text": "06 140"},
+   {"mm": [286.3, 176.8, 325.8, 186.4], "text": "Oi 30"},
+   {"mm": [285.9, 166.7, 325.4, 176.0], "text": "Oiz 40"},
+   {"mm": [159.8, 166.2, 198.6, 174.9], "text": "05 10"},
+   {"mm": [158.3, 155.7, 198.8, 166.5], "text": "04 120"},
+   {"mm": [285.2, 155.9, 325.4, 166.7], "text": "013 50"},
+   {"mm": [158.9, 145.9, 175.1, 155.8], "text": "03"},
+   {"mm": [310.0, 145.9, 325.8, 156.7], "text": "S0"},
+   {"mm": [159.3, 135.8, 199.1, 145.4], "text": "02 IOO"},
+   {"mm": [285.6, 135.2, 304.4, 146.4], "text": "Q1s"},
+   {"mm": [309.2, 134.3, 326.4, 147.2], "text": "79"},
+   {"mm": [12.1, 128.5, 92.8, 136.6], "text": "OUtpUt HighsidE"},
+   {"mm": [159.3, 125.4, 173.4, 135.0], "text": "01"},
+   {"mm": [285.6, 126.1, 325.4, 135.7], "text": "016 80"},
+   {"mm": [17.7, 120.9, 35.4, 127.9], "text": "IOw"},
+   {"mm": [20.5, 113.3, 33.9, 121.0], "text": "8n"},
+   {"mm": [62.0, 113.3, 81.8, 120.3], "text": "COM"}
+  ]
+ },
+ "dots": [
+  {"c": [269.0, 410.6], "r": 0.8, "lines": 0},
+  {"c": [194.6, 385.7], "r": 0.6, "lines": 0},
+  {"c": [128.9, 374.9], "r": 0.8, "lines": 0},
+  {"c": [66.2, 174.9], "r": 0.6, "lines": 0},
+  {"c": [206.6, 64.6], "r": 0.6, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** component layout 150 06 140, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–339 mm across, 16–429 mm up",
+  "- **Outlines:** line 16,316 rings, 77,838 straight (46,116 mm) / 24,789 curved (22,255 mm); text 578 rings, 3,405 straight (2,302 mm) / 1,032 curved (984 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 0.7 @ (156.7, 354.1)",
+  "- **Closed boxes:** 1",
+  "- **Dots (junctions):** 5",
+  "- **Words (OCR):** 43 in 29 lines: CONNECTORS VIEWED · FROM · REAR OF FRAME · PZ · Pi · 160 · 09 · AC · 03 · bz I50 · 6OHz · Oio 20"
+ ]
+}

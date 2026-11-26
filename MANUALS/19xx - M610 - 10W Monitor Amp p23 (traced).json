@@ -1,0 +1,72 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - 10W Monitor Amp.pdf",
+ "page": 23,
+ "version": 1,
+ "trace": "_traces/c50e8589c87fc1f6-p23.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "23", "pages": "25"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 46.9, 338.7, 431.9],
+ "outlines": {
+  "line": {"rings": 2639, "straight": {"n": 24255, "mm": 20683.7}, "curved": {"n": 6150, "mm": 6922.3}},
+  "text": {"rings": 122, "straight": {"n": 875, "mm": 846.0}, "curved": {"n": 204, "mm": 273.1}},
+  "tb": {"rings": 33, "straight": {"n": 174, "mm": 117.2}, "curved": {"n": 43, "mm": 46.7}}
+ },
+ "circles": [
+  {"c": [138.2, 271.7], "r": 13.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.0},
+  {"c": [138.2, 302.5], "r": 13.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.1},
+  {"c": [138.0, 241.4], "r": 13.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.1},
+  {"c": [96.0, 287.8], "r": 13.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.1},
+  {"c": [206.1, 341.2], "r": 5.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.1}
+ ],
+ "boxes": [
+  {"mm": [127.8, 340.7, 175.3, 350.5], "w": 47.5, "h": 9.8, "from": "ring", "words": ["r48"]},
+  {"mm": [157.6, 220.9, 198.0, 314.4], "w": 40.4, "h": 93.5, "from": "ring", "words": ["2 7"]},
+  {"mm": [84.2, 310.0, 90.0, 313.3], "w": 5.8, "h": 3.2, "from": "ring"}
+ ],
+ "text": {
+  "words": 22,
+  "lines": [
+   {"mm": [3.0, 355.8, 49.4, 369.0], "text": "Ce TR 2h"},
+   {"mm": [140.3, 341.6, 161.5, 349.7], "text": "r48"},
+   {"mm": [138.6, 327.7, 160.6, 335.2], "text": "R49"},
+   {"mm": [87.9, 283.9, 102.3, 292.1], "text": "45"},
+   {"mm": [131.1, 266.6, 144.0, 275.3], "text": "Q7"},
+   {"mm": [163.7, 259.3, 180.3, 269.6], "text": "2 7"},
+   {"mm": [24.8, 237.5, 46.9, 245.6], "text": "C 21"},
+   {"mm": [58.7, 204.0, 67.8, 211.0], "text": "22"},
+   {"mm": [163.0, 81.2, 228.9, 97.7], "text": "WARD: BECK"},
+   {"mm": [233.4, 82.9, 279.2, 99.2], "text": "SYSHES"},
+   {"mm": [40.4, 86.4, 64.6, 95.0], "text": "FINISH"},
+   {"mm": [62.4, 77.3, 100.6, 86.9], "text": "CLEAN"},
+   {"mm": [197.1, 62.4, 241.4, 74.6], "text": "M 610"},
+   {"mm": [40.4, 57.4, 75.8, 67.5], "text": "MATERIAL"},
+   {"mm": [162.1, 48.4, 259.7, 58.7], "text": "10 WATT AMPLIFIER"},
+   {"mm": [269.2, 49.4, 300.3, 59.8], "text": "46s"},
+   {"mm": [212.0, 29.8, 261.7, 36.8], "text": "06 091"},
+   {"mm": [188.3, 28.1, 202.7, 36.7], "text": "171"}
+  ]
+ },
+ "title_block": {"mm": [156.2, 72.6, 235.5, 106.3], "from": "title-block words (training set)", "text": ["WARD: BECK"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–339 mm across, 47–432 mm up",
+  "- **Outlines:** line 2,639 rings, 24,255 straight (20,684 mm) / 6,150 curved (6,922 mm); text 122 rings, 875 straight (846 mm) / 204 curved (273 mm); tb 33 rings, 174 straight (117 mm) / 43 curved (46.7 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 13.1 @ (138.2, 271.7), r 13.1 @ (138.2, 302.5), r 13.1 @ (138.0, 241.4), r 13.1 @ (96.0, 287.8)",
+  "- **Closed boxes:** 3; named: r48; 2 7",
+  "- **Words (OCR):** 22 in 18 lines: Ce TR 2h · r48 · R49 · 45 · Q7 · 2 7 · C 21 · 22 · WARD: BECK · SYSHES · FINISH · CLEAN",
+  "- **Title block:** (156, 73)–(236, 106) mm: WARD: BECK"
+ ]
+}

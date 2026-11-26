@@ -1,0 +1,55 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - 10W Monitor Amp (2).pdf",
+ "page": 23,
+ "version": 1,
+ "trace": "_traces/5976e852e640a2d9-p23.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "23", "pages": "25"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 46.9, 338.7, 431.9],
+ "outlines": {
+  "line": {"rings": 2784, "straight": {"n": 25279, "mm": 21628.5}, "curved": {"n": 6380, "mm": 7220.1}},
+  "text": {"rings": 6, "straight": {"n": 20, "mm": 13.9}, "curved": {"n": 8, "mm": 8.8}}
+ },
+ "circles": [
+  {"c": [138.2, 271.7], "r": 13.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.0},
+  {"c": [138.2, 302.5], "r": 13.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.1},
+  {"c": [138.0, 241.4], "r": 13.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.1},
+  {"c": [96.0, 287.8], "r": 13.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.1},
+  {"c": [206.1, 341.2], "r": 5.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.1}
+ ],
+ "boxes": [
+  {"mm": [127.8, 340.7, 175.3, 350.5], "w": 47.5, "h": 9.8, "from": "ring"},
+  {"mm": [157.6, 220.9, 198.0, 314.4], "w": 40.4, "h": 93.5, "from": "ring"},
+  {"mm": [84.2, 310.0, 90.0, 313.3], "w": 5.8, "h": 3.2, "from": "ring"}
+ ],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–339 mm across, 47–432 mm up",
+  "- **Outlines:** line 2,784 rings, 25,279 straight (21,628 mm) / 6,380 curved (7,220 mm); text 6 rings, 20 straight (13.9 mm) / 8 curved (8.8 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 13.1 @ (138.2, 271.7), r 13.1 @ (138.2, 302.5), r 13.1 @ (138.0, 241.4), r 13.1 @ (96.0, 287.8)",
+  "- **Closed boxes:** 3",
+  "- **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht"
+ ]
+}

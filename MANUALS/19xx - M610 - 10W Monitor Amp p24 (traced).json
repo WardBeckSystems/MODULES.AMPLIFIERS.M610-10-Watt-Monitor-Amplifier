@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - 10W Monitor Amp.pdf",
+ "page": 24,
+ "version": 1,
+ "trace": "_traces/c50e8589c87fc1f6-p24.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "24", "pages": "25"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 8.7, 338.7, 431.9],
+ "outlines": {
+  "line": {"rings": 2720, "straight": {"n": 23082, "mm": 19482.1}, "curved": {"n": 5717, "mm": 6328.1}},
+  "text": {"rings": 40, "straight": {"n": 467, "mm": 540.4}, "curved": {"n": 123, "mm": 194.8}}
+ },
+ "circles": [{"c": [180.9, 352.1], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [{"mm": [160.2, 300.1, 169.8, 367.2], "w": 9.6, "h": 67.1, "from": "ring"}],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [84.6, 264.3, 104.7, 274.3], "text": "Sw1"},
+   {"mm": [283.3, 267.3, 304.2, 275.9], "text": "CRA"},
+   {"mm": [12.7, 263.2, 31.5, 273.0], "text": "DSI"},
+   {"mm": [44.7, 223.5, 74.9, 230.4], "text": "WBS Mbio"},
+   {"mm": [32.6, 184.4, 45.1, 189.7], "text": "Trim"},
+   {"mm": [306.4, 142.9, 326.9, 151.6], "text": "C30"},
+   {"mm": [8.4, 139.0, 28.5, 148.9], "text": "R23"},
+   {"mm": [100.4, 140.3, 114.0, 148.5], "text": "F2"},
+   {"mm": [316.7, 76.6, 337.7, 85.3], "text": "MATL"},
+   {"mm": [268.6, 76.0, 299.9, 84.2], "text": "USED ON"},
+   {"mm": [255.6, 65.8, 282.0, 74.5], "text": "M6IO"},
+   {"mm": [316.7, 38.9, 338.5, 47.0], "text": "FINISH"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–339 mm across, 9–432 mm up",
+  "- **Outlines:** line 2,720 rings, 23,082 straight (19,482 mm) / 5,717 curved (6,328 mm); text 40 rings, 467 straight (540 mm) / 123 curved (195 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.5 @ (180.9, 352.1)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 12 in 12 lines: Sw1 · CRA · DSI · WBS Mbio · Trim · C30 · R23 · F2 · MATL · USED ON · M6IO · FINISH"
+ ]
+}

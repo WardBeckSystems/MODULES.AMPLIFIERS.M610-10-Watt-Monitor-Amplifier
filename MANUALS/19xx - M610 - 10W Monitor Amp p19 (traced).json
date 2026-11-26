@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M610/MANUALS/19xx - M610 - 10W Monitor Amp.pdf",
+ "page": 19,
+ "version": 1,
+ "trace": "_traces/c50e8589c87fc1f6-p19.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "19", "pages": "25"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.2, 92.7, 338.5, 422.4],
+ "outlines": {
+  "line": {"rings": 5428, "straight": {"n": 32123, "mm": 23751.5}, "curved": {"n": 9075, "mm": 9150.1}},
+  "text": {"rings": 306, "straight": {"n": 3126, "mm": 2868.1}, "curved": {"n": 854, "mm": 1059.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 20,
+  "lines": [
+   {"mm": [81.4, 374.8, 116.8, 384.9], "text": "NoTEs"},
+   {"mm": [81.2, 365.3, 208.8, 374.6], "text": "LMelo GAIN ShowN 60 4B"},
+   {"mm": [87.2, 354.3, 215.9, 365.1], "text": "FOR 4od8 GAIN STRAP P2"},
+   {"mm": [219.8, 354.9, 253.3, 364.5], "text": "6 To Pz"},
+   {"mm": [200.8, 343.3, 214.4, 351.9], "text": "P2"},
+   {"mm": [220.2, 343.9, 268.8, 352.1], "text": "7Tope-15"},
+   {"mm": [91.5, 330.1, 176.0, 338.7], "text": "INTERSTAGE GAIN"},
+   {"mm": [181.4, 329.9, 274.2, 338.5], "text": "CONTROL OPTIONAL"},
+   {"mm": [91.1, 316.3, 191.1, 324.4], "text": "IF OMITTEd STRAP"},
+   {"mm": [197.5, 316.3, 264.5, 325.2], "text": "P-13 To_P2-5"},
+   {"mm": [2.8, 283.9, 34.1, 291.6], "text": "WATTS"},
+   {"mm": [0.0, 273.1, 31.3, 281.7], "text": "3a MAX"},
+   {"mm": [0.0, 265.1, 20.1, 272.1], "text": "CED"}
+  ]
+ },
+ "dots": [{"c": [135.5, 420.7], "r": 0.5, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–338 mm across, 93–422 mm up",
+  "- **Outlines:** line 5,428 rings, 32,123 straight (23,752 mm) / 9,075 curved (9,150 mm); text 306 rings, 3,126 straight (2,868 mm) / 854 curved (1,060 mm)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 20 in 13 lines: NoTEs · LMelo GAIN ShowN 60 4B · FOR 4od8 GAIN STRAP P2 · 6 To Pz · P2 · 7Tope-15 · INTERSTAGE GAIN · CONTROL OPTIONAL · IF OMITTEd STRAP · P-13 To_P2-5 · WATTS · 3a MAX"
+ ]
+}
