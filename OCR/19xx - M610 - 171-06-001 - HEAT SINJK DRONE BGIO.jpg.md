@@ -21,7 +21,7 @@ Wiki page: [M610](../../../../PAGES/M610.md)
 - **Dots (junctions):** 5
 - **Words (OCR):** 37 in 29 lines: z 2 · II; · 14 · 18 · 2 6 · ~E1E · 43} · 29 · 21 · alh · 16 · 443
 
-Every curve, box, word and wire group: [19xx - M610 - 171-06-001 - HEAT SINJK DRONE BGIO (traced).json](../SCHEMATICS/19xx%20-%20M610%20-%20171-06-001%20-%20HEAT%20SINJK%20DRONE%20BGIO%20(traced).json) (the CAD file: `19xx - M610 - 171-06-001 - HEAT SINJK DRONE BGIO (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 171-06-001 - HEAT SINJK DRONE BGIO (traced).json](../SCHEMATICS/19xx%20-%20M610%20-%20171-06-001%20-%20HEAT%20SINJK%20DRONE%20BGIO%20%28traced%29.json) (the CAD file: `19xx - M610 - 171-06-001 - HEAT SINJK DRONE BGIO (traced).dxf`).
 
 ## Full text
 

@@ -21,7 +21,7 @@ Wiki page: [M610](../../../../PAGES/M610.md)
 - **Outlines:** line 141 rings, 851 straight (1,354 mm) / 216 curved (341 mm); text 145 rings, 1,146 straight (1,434 mm) / 304 curved (492 mm)
 - **Words (OCR):** 33 in 15 lines: 10 · 10 WATT MONITOR AMPL IFIER · Designed · Manufactu red · By · WARO- ECK SYSTEMS LIMI TEO · 84 Prog re ss Avenue · Scarborough, Ont ar · 16) 438 -6550 · Tel · 065 25399 · ps
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p1 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p1%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p1 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p1%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -31,7 +31,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p1 (tr
 - **Dots (junctions):** 2
 - **Words (OCR):** 73 in 30 lines: 10 \o'Ai MONI TOR AMPL · ns ro..: tion Manua · CON · Circu · Des ription · Te hn ca Data · ifie · justment · DC Vol se Cha · Rep · ea le Parts · List
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p2 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p2%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p2 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p2%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -42,7 +42,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p2 (tr
 - **Dots (junctions):** 1
 - **Words (OCR):** 402 in 91 lines: Circuit Descriotion' · The · lan · pu · the ampl i::i er · via ·mo · con nec tor P2 · 16 nd · o~er at ional amp ifiers ZlA and Zl operate in the :lVe ti ng · The two · mode · Th
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p3 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p3%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p3 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p3%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -53,7 +53,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p3 (tr
 - **Dots (junctions):** 1
 - **Words (OCR):** 149 in 61 lines: M6l · lOW MONI TOR AMPLIFIER · Technical Data · 40 or 60 dB ma · ed ga in · nd · z'arne · Fr on · nel vari:able co ntro · REQUENCY · 5d from 30Hz to 0kHz · RES?Q NSE
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p4 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p4%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p4 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p4%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -64,7 +64,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p4 (tr
 - **Dots (junctions):** 1
 - **Words (OCR):** 145 in 52 lines: 10 WATT MONITOR AMPliFI ER · AMPL IF ER AOJUSTMErfl · Lono it ud nal Ba nc Adjus ment: · ra · he ampli · fo · he ow ga · nd appl · gnal to give · n~T~r · nc~E v~~:n ~On~ ~:m~dj · Tie
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p5 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p5%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p5 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p5%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -75,7 +75,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p5 (tr
 - **Closed boxes:** 1
 - **Words (OCR):** 100 in 41 lines: lOW MONITOR AJ1?t. IE' IS · DC Voltac Ch · The foll owing DC vol ge are typ cal nd ma va ry +10 · T;"e · idle cu re · ah ou · be · 50 rna. At 10 wat ts u::;pUl:. ower · the DC su · ren wil n;ea re · ro mat ly 55 rna · The
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p6 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p6%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p6 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p6%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -86,7 +86,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p6 (tr
 - **Closed boxes:** 1
 - **Words (OCR):** 253 in 149 lines: S~OL · cr · mte.. 2SV · 22 · 362 -C226 -Q2.::A.S · ca · 22 mf · 25v · T36 · 26-Q 25AS · ca · 10 pfd, OOV
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p7 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p7%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p7 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p7%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -96,7 +96,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p7 (tr
 - **Circles and arcs:** 6 circles, 0 arcs; largest r 2.1 @ (73.8, 394.0), r 1.9 @ (218.5, 279.2), r 1.9 @ (226.7, 218.0), r 1.9 @ (226.7, 279.0)
 - **Words (OCR):** 130 in 101 lines: REPLACEAi3LE P.".RTS · 01610 · PART 'mJ",..aER · Fus · amp · 313 001 · amp · 31 001 · Ll · Spec ial · nductor · Pr
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p8 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p8%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p8 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p8%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -107,7 +107,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p8 (tr
 - **Closed boxes:** 1
 - **Words (OCR):** 92 in 73 lines: REPr..;,.CEA3LE ?i\R · M6 · aai · 620 · Ph · Ol: Al · .sistors · 1:1',; · R2 · 7S · Al · unl
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p9 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p9%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p9 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p9%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -117,7 +117,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p9 (tr
 - **Circles and arcs:** 2 circles, 0 arcs; largest r 2.2 @ (141.3, 397.7), r 2.2 @ (73.0, 398.0)
 - **Words (OCR):** 24 in 17 lines: 0'.'4<'':5 · ",E2::"':"C · M610 · XC1 · aeae i::k · 3AL6aO -2R · I!l t.a<;r t.ed · :z:uit · Pa .ir :"ild · U6.;>.773939 · aa · U5a7709393
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p10 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p10%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p10 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p10%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -127,7 +127,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p10 (t
 - **Dots (junctions):** 1
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p11 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p11%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p11 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p11%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -138,7 +138,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p11 (t
 - **Dots (junctions):** 3
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p12 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p12%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p12 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p12%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -148,7 +148,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p12 (t
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 2.3 @ (22.6, 316.1)
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p13 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p13%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p13 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p13%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -157,7 +157,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p13 (t
 - **Outlines:** line 3,586 rings, 23,584 straight (19,191 mm) / 6,301 curved (6,980 mm); text 5 rings, 17 straight (9.6 mm) / 6 curved (7.6 mm)
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p14 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p14%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p14 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p14%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p14 (traced).dxf`).
 
 ### Page 15
 
@@ -167,7 +167,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p14 (t
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.5 @ (138.9, 111.6)
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p15 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p15%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p15 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p15 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p15%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p15 (traced).dxf`).
 
 ### Page 16
 
@@ -179,7 +179,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p15 (t
 - **Dots (junctions):** 1
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p16 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p16%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p16 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p16 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p16%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p16 (traced).dxf`).
 
 ### Page 17
 
@@ -190,7 +190,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p16 (t
 - **Dots (junctions):** 1
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p17 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p17%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p17 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p17 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p17%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p17 (traced).dxf`).
 
 ### Page 18
 
@@ -201,7 +201,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p17 (t
 - **Dots (junctions):** 1
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p18 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p18%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p18 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p18 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p18%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p18 (traced).dxf`).
 
 ### Page 19
 
@@ -211,7 +211,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p18 (t
 - **Dots (junctions):** 1
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p19 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p19%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p19 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p19 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p19%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p19 (traced).dxf`).
 
 ### Page 20
 
@@ -222,7 +222,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p19 (t
 - **Closed boxes:** 1
 - **Words (OCR):** 63 in 39 lines: 10 · P2 · CW · 13 · cwt · PI · EX~ ON OL · INTERNAL CONTROL · s,;?o-',:;,":; SO · ARM · AR · LOW
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p20 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p20%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p20 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p20 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p20%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p20 (traced).dxf`).
 
 ### Page 21
 
@@ -234,7 +234,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p20 (t
 - **Dots (junctions):** 1
 - **Words (OCR):** 43 in 34 lines: COM · MUTE:. CON TRO · l-ED · r[O~ · SPKR OUTPU · SP · IRE CT · IJ rF-'I IT · COt-....Jt-....JE CIO · +e:v · (VIEW FROM REAR · FRAME
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p21 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p21%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p21 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p21 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p21%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p21 (traced).dxf`).
 
 ### Page 22
 
@@ -245,7 +245,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p21 (t
 - **Closed boxes:** 7
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p22 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p22%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p22 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p22 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p22%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p22 (traced).dxf`).
 
 ### Page 23
 
@@ -256,7 +256,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p22 (t
 - **Closed boxes:** 3
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p23 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p23%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p23 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p23 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p23%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p23 (traced).dxf`).
 
 ### Page 24
 
@@ -267,7 +267,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p23 (t
 - **Closed boxes:** 1
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p24 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p24%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p24 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p24 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p24%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p24 (traced).dxf`).
 
 ### Page 25
 
@@ -278,7 +278,7 @@ Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p24 (t
 - **Closed boxes:** 2
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p25 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2)%20p25%20(traced).json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p25 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 10W Monitor Amp (2) p25 (traced).json](../MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20%282%29%20p25%20%28traced%29.json) (the CAD file: `19xx - M610 - 10W Monitor Amp (2) p25 (traced).dxf`).
 
 ## Full text
 

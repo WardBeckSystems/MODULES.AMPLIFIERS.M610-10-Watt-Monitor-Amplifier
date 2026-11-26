@@ -22,7 +22,7 @@ Wiki page: [M610](../../../../PAGES/M610.md)
 - **Words (OCR):** 23 in 22 lines: PCB · P2 · CRA · PI · Pi · C28 · C30 · MaTI . · 2On · WBS WARD-BECK · LtD · DRN
 - **Title block:** (106, 16)–(258, 89) mm: WBS WARD-BECK · DRN · Dm · M6i0 · DATE · MAE7 · CKD · MODULE LAYOUT · Scale · 610-04 901 · TOLS
 
-Every curve, box, word and wire group: [19xx - M610 - 610-04-001 - WATT MONITOR AMPLIFIE (traced).json](../MECHANICAL/19xx%20-%20M610%20-%20610-04-001%20-%20WATT%20MONITOR%20AMPLIFIE%20(traced).json) (the CAD file: `19xx - M610 - 610-04-001 - WATT MONITOR AMPLIFIE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 610-04-001 - WATT MONITOR AMPLIFIE (traced).json](../MECHANICAL/19xx%20-%20M610%20-%20610-04-001%20-%20WATT%20MONITOR%20AMPLIFIE%20%28traced%29.json) (the CAD file: `19xx - M610 - 610-04-001 - WATT MONITOR AMPLIFIE (traced).dxf`).
 
 ## Full text
 

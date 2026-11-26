@@ -21,7 +21,7 @@ Wiki page: [M610](../../../../PAGES/M610.md)
 - **Closed boxes:** 1
 - **Wiring (first pass):** 47 connected wire groups from 350 runs
 
-Every curve, box, word and wire group: [19xx - M610 - 610-02-004 - MEIO EXT MUTE CONTROL (traced).json](../SCHEMATICS/19xx%20-%20M610%20-%20610-02-004%20-%20MEIO%20EXT%20MUTE%20CONTROL%20(traced).json) (the CAD file: `19xx - M610 - 610-02-004 - MEIO EXT MUTE CONTROL (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 610-02-004 - MEIO EXT MUTE CONTROL (traced).json](../SCHEMATICS/19xx%20-%20M610%20-%20610-02-004%20-%20MEIO%20EXT%20MUTE%20CONTROL%20%28traced%29.json) (the CAD file: `19xx - M610 - 610-02-004 - MEIO EXT MUTE CONTROL (traced).dxf`).
 
 ## Full text
 

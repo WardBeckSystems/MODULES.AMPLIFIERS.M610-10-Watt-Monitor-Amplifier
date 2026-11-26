@@ -20,7 +20,7 @@ Wiki page: [M610](../../../../PAGES/M610.md)
 - **Closed boxes:** 1
 - **Words (OCR):** 12 in 12 lines: Sw1 · CRA · DSI · Wes Mbio · Trim · C30 · R23 · F2 · MaTL · USED OM · M6IO · FINISA
 
-Every curve, box, word and wire group: [19xx - M610 - 610-04-001 - MGIO FIINISH CRA (traced).json](../MECHANICAL/19xx%20-%20M610%20-%20610-04-001%20-%20MGIO%20FIINISH%20CRA%20(traced).json) (the CAD file: `19xx - M610 - 610-04-001 - MGIO FIINISH CRA (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 610-04-001 - MGIO FIINISH CRA (traced).json](../MECHANICAL/19xx%20-%20M610%20-%20610-04-001%20-%20MGIO%20FIINISH%20CRA%20%28traced%29.json) (the CAD file: `19xx - M610 - 610-04-001 - MGIO FIINISH CRA (traced).dxf`).
 
 ## Full text
 

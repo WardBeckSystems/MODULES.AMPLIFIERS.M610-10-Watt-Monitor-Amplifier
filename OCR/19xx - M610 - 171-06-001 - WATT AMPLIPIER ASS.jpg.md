@@ -22,7 +22,7 @@ Wiki page: [M610](../../../../PAGES/M610.md)
 - **Words (OCR):** 22 in 22 lines: Le_ · 01Z2F · r48 · R49 · Q5 · Q7 · 2 7 · C 21 · Q6 · 22 · BECK · SYSHS
 - **Title block:** (157, 73)–(236, 106) mm: BECK · WARD
 
-Every curve, box, word and wire group: [19xx - M610 - 171-06-001 - WATT AMPLIPIER ASS (traced).json](../SCHEMATICS/19xx%20-%20M610%20-%20171-06-001%20-%20WATT%20AMPLIPIER%20ASS%20(traced).json) (the CAD file: `19xx - M610 - 171-06-001 - WATT AMPLIPIER ASS (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M610 - 171-06-001 - WATT AMPLIPIER ASS (traced).json](../SCHEMATICS/19xx%20-%20M610%20-%20171-06-001%20-%20WATT%20AMPLIPIER%20ASS%20%28traced%29.json) (the CAD file: `19xx - M610 - 171-06-001 - WATT AMPLIPIER ASS (traced).dxf`).
 
 ## Full text
 
