@@ -65,6 +65,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVWcyeWQ0djhzOFk/view?resourcekey=0-K2ccuvmzp875OG7j-g4AHg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVWcyeWQ0djhzOFk&resourcekey=0-K2ccuvmzp875OG7j-g4AHg" width="240" alt="19xx - M610 - 610-04-001 - MGIO FIINISH CRA.jpg"></a><br><sub>19xx - M610 - 610-04-001 - MGIO FIINISH CRA · <a href="MECHANICAL/19xx%20-%20M610%20-%20610-04-001%20-%20MGIO%20FIINISH%20CRA%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWVFyRmVEZ2VWZDg/view?resourcekey=0-rI3A_LzGdhA2QvLZqXSb1w" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWVFyRmVEZ2VWZDg&resourcekey=0-rI3A_LzGdhA2QvLZqXSb1w" width="240" alt="19xx - M610 - 610-04-001 - WATT MONITOR AMPLIFIE.jpg"></a><br><sub>19xx - M610 - 610-04-001 - WATT MONITOR AMPLIFIE · <a href="MECHANICAL/19xx%20-%20M610%20-%20610-04-001%20-%20WATT%20MONITOR%20AMPLIFIE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M610.stl`](MECHANICAL/M610.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M610)
+
+- **Size:** 86.36 × 86.36 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: 3.4W X 3.4H X 13.70 inches 4 lbs net.)
+- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M610 - front panel.svg`)
+- the drawn panel is 0.76 wide to high, the size 1.00: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M610.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
