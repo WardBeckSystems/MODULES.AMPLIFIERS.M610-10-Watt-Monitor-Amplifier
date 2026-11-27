@@ -1,0 +1,132 @@
+{
+ "module": "M610",
+ "title": "",
+ "source": {
+  "file": "MANUALS/19xx - M610 - 10W Monitor Amp (2).pdf",
+  "page": 4
+ },
+ "ocr_quality": 0.8,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "S t",
+   "key": "s_t",
+   "text": ": a p). Front \" a nel vari:able control."
+  },
+  {
+   "name": "Frequency",
+   "key": "frequency",
+   "text": "! 0.2 5d B from 30Hz to 2 0kHz RES?Q NSE: 80dB below lOW TOTAL HARMONIC Less than 0.3 5 ' from 30Hz t o 20 kHz (mea s ured",
+   "quantities": [
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 0,
+     "unit": "kHz"
+    },
+    {
+     "value": 80,
+     "unit": "dB"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Distortion",
+   "key": "distortion",
+   "text": "a t lOW out\"ut level). -2 0dB m nominal, OdBm max imUill (60d B g ai nl Od Bm nominal, + l8dBm maximuro (40dB gain). LONGITUDINAL Greater than 5 0dB",
+   "quantities": [
+    {
+     "value": 0,
+     "unit": "dB"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 40,
+     "unit": "dB"
+    },
+    {
+     "value": 0,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Balance",
+   "key": "balance",
+   "text": "",
+   "items": [
+    {
+     "name": "Source impedance",
+     "text": "6 00 ohms o r less balanced or unbalanced.",
+     "quantities": [
+      {
+       "value": 0,
+       "unit": "ohms"
+      }
+     ],
+     "key": "source_impedance"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "8 ohms nominal, 4 or 1 6 o nrn s with app r op r iate power output correction. OUT?UT IMPEDANCE: Less than 0.5 ohms P!!ASI NG: The low terminal n u..:nb e r.o t: the input pair i sin phase with the direct output terminal. POWER REQUI RE-1lSV ec, 6 0Hz, 30VA",
+   "quantities": [
+    {
+     "value": 8,
+     "unit": "ohms"
+    },
+    {
+     "value": 0.5,
+     "unit": "ohms"
+    },
+    {
+     "value": 0,
+     "unit": "Hz"
+    },
+    {
+     "value": 30,
+     "unit": "VA"
+    }
+   ]
+  },
+  {
+   "name": "MENTS",
+   "key": "ments",
+   "text": "AMBIENT TEMPERATURE"
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "3.4W X 3.4H X 13.70 inches 4 lbs net.",
+   "quantities": [
+    {
+     "value": 3.4,
+     "unit": "W"
+    },
+    {
+     "value": 13.7,
+     "unit": "inches"
+    },
+    {
+     "value": 4,
+     "unit": "lbs"
+    }
+   ]
+  }
+ ]
+}

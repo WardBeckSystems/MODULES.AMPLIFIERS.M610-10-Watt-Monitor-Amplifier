@@ -1,0 +1,19 @@
+{
+ "module": "M610",
+ "source": {
+  "file": "MANUALS/19xx - M610 - P003 - 1.jpg",
+  "pages": [
+   1
+  ]
+ },
+ "ocr_quality": 0.92,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "Tiie balanced input to the amplifier is via module conrecccr F2 Pins 16 and The two operational amplifiers 214 and ZiB operate in che inverting mode The Feedback resistors R7 R8 R13 and R14 set the gain of Z1A _ RLI and R12 set the gain of 213 The cain of these two amplifiers is lowered by 204B when Ehe module connector P2 pins and 14 as well as pins and 15 are strapped together The output of 214 is conneczedto the inverting input of 22 through Rl5 and the output Of Z1B connects EO che non-i inverting input of 22 through Rl6 22 provides differential input to the incoming signal and changes the balanced operation to an unbalanced one Whether che input source is balanced or unbalanced Ene signal level out of 22 will remain constant for the same input signal level. RL3 is the high gain differential balance control and R18 is the low gain differential balance control 22 output is coupled through C12 to Ehe front panel gain control R2 3 This control function can be effectively extended up to approximately 20 feet fron the amplifier by connecting 5K ohn log taper control to connector P2 pins 13 and (high side of control Pin 13 arm pin common pin 12) The signal output from R23 (or the external control) is coupled to the power amplifier input Via C16 23 with its associated components forn the power amplifier driver stage R2 R2 8 R29 R30 C19 and C20 forn 12aB per octave Low pass filter with cut off frequency or approximately 3 OKHz on 23' s input 23' s output is coupled through R37 and biasing diodes CR2 and CR3 to the power output transistors Q3 04 form Ehe upper and Q7, Q8 the lower half of the complimentary power output stage The output signal is taken from the junction of R4 8 and R49 coupled Through Ll and C2 8 appearing at connector Pl pin 1 - Q5 and 06 limit tne output power of the amplifier to safe level should the load impedance become too Low The amplifier operates from nominal voltage of 52 volts rec??lle which 15 derived Erom Tl with bridge er CR4 and filter capacitor C30 02 is decoupling regulator Eo operate 21, 22 and 2 3 01 is current limit controller for decoupler Q2"
+   ]
+  }
+ ]
+}

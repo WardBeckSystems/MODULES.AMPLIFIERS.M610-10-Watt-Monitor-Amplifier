@@ -13,6 +13,37 @@ Ward-Beck Systems M610, 1975|8. Wiki page: [M610 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 42 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [2 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [19xx - M610 - 10W Monitor Amp (2).pdf](MANUALS/19xx%20-%20M610%20-%2010W%20Monitor%20Amp%20(2).pdf) page 4 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **S t** | : a p). Front &quot; a nel vari:able control. |
+| **Frequency** | ! 0.2 5d B from 30Hz to 2 0kHz RES?Q NSE: 80dB below lOW TOTAL HARMONIC Less than 0.3 5 ' from 30Hz t o 20 kHz (mea s ured |
+| **Distortion** | a t lOW out&quot;ut level). -2 0dB m nominal, OdBm max imUill (60d B g ai nl Od Bm nominal, + l8dBm maximuro (40dB gain). LONGITUDINAL Greater than 5 0dB |
+| **Balance** |  |
+| &nbsp;&nbsp;Source impedance | 6 00 ohms o r less balanced or unbalanced. |
+| **Load impedance** | 8 ohms nominal, 4 or 1 6 o nrn s with app r op r iate power output correction. OUT?UT IMPEDANCE: Less than 0.5 ohms P!!ASI NG: The low terminal n u..:nb e r.o t: the input pair i sin phase with the direct output terminal. POWER REQUI RE-1lSV ec, 6 0Hz, 30VA |
+| **MENTS** | AMBIENT TEMPERATURE |
+| **Dimensions** | 3.4W X 3.4H X 13.70 inches 4 lbs net. |
+
+## Circuit description
+
+From [19xx - M610 - P003 - 1.jpg](MANUALS/19xx%20-%20M610%20-%20P003%20-%201.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+Tiie balanced input to the amplifier is via module conrecccr F2 Pins 16 and The two operational amplifiers 214 and ZiB operate in che inverting mode The Feedback resistors R7 R8 R13 and R14 set the gain of Z1A _ RLI and R12 set the gain of 213 The cain of these two amplifiers is lowered by 204B when Ehe module connector P2 pins and 14 as well as pins and 15 are strapped together The output of 214 is conneczedto the inverting input of 22 through Rl5 and the output Of Z1B connects EO che non-i inverting input of 22 through Rl6 22 provides differential input to the incoming signal and changes the balanced operation to an unbalanced one Whether che input source is balanced or unbalanced Ene signal level out of 22 will remain constant for the same input signal level. RL3 is the high gain differential balance control and R18 is the low gain differential balance control 22 output is coupled through C12 to Ehe front panel gain control R2 3 This control function can be effectively extended up to approximately 20 feet fron the amplifier by connecting 5K ohn log taper control to connector P2 pins 13 and (high side of control Pin 13 arm pin common pin 12) The signal output from R23 (or the external control) is coupled to the power amplifier input Via C16 23 with its associated components forn the power amplifier driver stage R2 R2 8 R29 R30 C19 and C20 forn 12aB per octave Low pass filter with cut off frequency or approximately 3 OKHz on 23' s input 23' s output is coupled through R37 and biasing diodes CR2 and CR3 to the power output transistors Q3 04 form Ehe upper and Q7, Q8 the lower half of the complimentary power output stage The output signal is taken from the junction of R4 8 and R49 coupled Through Ll and C2 8 appearing at connector Pl pin 1 - Q5 and 06 limit tne output power of the amplifier to safe level should the load impedance become too Low The amplifier operates from nominal voltage of 52 volts rec??lle which 15 derived Erom Tl with bridge er CR4 and filter capacitor C30 02 is decoupling regulator Eo operate 21, 22 and 2 3 01 is current limit controller for decoupler Q2
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
