@@ -1,5 +1,5 @@
 # 19xx - M610 - 171-06-001 - WATT AMPLIPIER ASS.jpg
-Wiki page: [M610](../../../../PAGES/M610.md)
+Wiki page: [M610](../)
 
 
 - **Year:** unknown (unknown)

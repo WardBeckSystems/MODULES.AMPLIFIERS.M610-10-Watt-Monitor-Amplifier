@@ -1,6 +1,6 @@
 # M610 10 Watt Monitor Amplifier · Amplifiers
 
-Ward-Beck Systems M610, 1975|8. Wiki page: [M610 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M610.html)
+Ward-Beck Systems M610, 1975|8. Wiki page: [M610 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M610-10-Watt-Monitor-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|

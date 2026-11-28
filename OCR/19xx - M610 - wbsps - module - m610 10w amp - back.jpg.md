@@ -1,5 +1,5 @@
 # 19xx - M610 - wbsps - module - m610 10w amp - back.jpg
-Wiki page: [M610](../../../../PAGES/M610.md)
+Wiki page: [M610](../)
 
 
 - **Year:** unknown (unknown)

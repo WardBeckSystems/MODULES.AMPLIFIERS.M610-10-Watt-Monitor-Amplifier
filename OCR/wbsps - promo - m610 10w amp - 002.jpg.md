@@ -1,5 +1,5 @@
 # wbsps - promo - m610 10w amp - 002.jpg
-Wiki page: [M610](../../../../PAGES/M610.md)
+Wiki page: [M610](../)
 
 
 - **Year:** unknown (title block (read by eye))
