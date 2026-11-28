@@ -4,13 +4,12 @@ Ward-Beck Systems M610, 1975|8. Wiki page: [M610 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 53 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 12 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 170 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 9 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 13 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 52 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 11 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 169 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 8 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 42 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -55,8 +54,6 @@ _Photographs of the module itself: front, back, inside, racked._
 
 Shared privately on Google Drive (opens after sign-in): [19xx - M610 - wbsps - module - m610 10w amp - front_small](https://drive.google.com/file/d/0B0yR0b5T78SKMm8wY25zZmE3UWs/view?resourcekey=0-_9XzEkk-5msKUK86nS2FRw)
 
-Not on Google Drive yet: `19xx - M610 - M610.jpg`
-
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
@@ -64,6 +61,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVWcyeWQ0djhzOFk/view?resourcekey=0-K2ccuvmzp875OG7j-g4AHg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVWcyeWQ0djhzOFk&resourcekey=0-K2ccuvmzp875OG7j-g4AHg" width="240" alt="19xx - M610 - 610-04-001 - MGIO FIINISH CRA.jpg"></a><br><sub>19xx - M610 - 610-04-001 - MGIO FIINISH CRA · <a href="MECHANICAL/19xx%20-%20M610%20-%20610-04-001%20-%20MGIO%20FIINISH%20CRA%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWVFyRmVEZ2VWZDg/view?resourcekey=0-rI3A_LzGdhA2QvLZqXSb1w" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWVFyRmVEZ2VWZDg&resourcekey=0-rI3A_LzGdhA2QvLZqXSb1w" width="240" alt="19xx - M610 - 610-04-001 - WATT MONITOR AMPLIFIE.jpg"></a><br><sub>19xx - M610 - 610-04-001 - WATT MONITOR AMPLIFIE · <a href="MECHANICAL/19xx%20-%20M610%20-%20610-04-001%20-%20WATT%20MONITOR%20AMPLIFIE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
+
+## 3-D model
+
+[`MECHANICAL/M610.stl`](MECHANICAL/M610.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M610)
+
+- **Size:** 86.36 × 86.36 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: 3.4W X 3.4H X 13.70 inches 4 lbs net.)
+- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M610 - front panel.svg`)
+- the drawn panel is 0.76 wide to high, the size 1.00: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M610.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -91,8 +97,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 
 Shared privately on Google Drive (opens after sign-in): [19xx - M610 - DOC - wbsps - ad - 600 series](https://drive.google.com/file/d/0B0yR0b5T78SKYV84MnZPdmp4RXM/view?resourcekey=0-BYn5IKGKqKUqwhW73pe0eg) · [19xx - M610 - wbsps - module - m610 10w amp - back](https://drive.google.com/file/d/0B0yR0b5T78SKTnB4VUQwSmVOUkk/view?resourcekey=0-dP5_2X8nyJtYeUggPwRb2Q) · [19xx - M610 - wbsps - module - m610 10w amp - front](https://drive.google.com/file/d/0B0yR0b5T78SKVC1RM1NMeHVkc0U/view?resourcekey=0-88VMldJyGwqoVBmlFfVLmQ)
 
-Not on Google Drive yet: `wbsps - promo - m610 10w amp - 002.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -109,7 +113,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - M610 - P012 - B610-002-002 003.kicad_sch](KICAD/19xx%20-%20M610%20-%20P012%20-%20B610-002-002%20003.kicad_sch)
 - [19xx - M610 - P012 - B610-002-002 004.kicad_sch](KICAD/19xx%20-%20M610%20-%20P012%20-%20B610-002-002%20004.kicad_sch)
 - [M610.kicad_sym](KICAD/M610.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
